@@ -1,0 +1,7 @@
+streamlit>=1.28.0 
+phidata
+streamlit
+mysql-connector-python
+matplotlib
+pandas
+numpy
