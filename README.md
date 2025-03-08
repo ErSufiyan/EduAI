@@ -57,7 +57,7 @@ The app is built using **Streamlit** for the frontend, **MySQL** for the databas
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/eduai-quiz-app.git
+   git clone [https://github.com/your-repo/eduai-quiz-app.git](https://github.com/ErSufiyan/EduAI/)
    cd eduai-quiz-app
    ```
 
